@@ -48,8 +48,8 @@ class Ui(QtWidgets.QMainWindow):
         #######################################
 
         #lock window resize
-        width=298
-        height=319
+        width=321
+        height=249
         self.setFixedWidth(width)
         self.setFixedHeight(height)
         ############################
