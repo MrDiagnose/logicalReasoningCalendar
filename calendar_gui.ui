@@ -155,7 +155,7 @@
    <widget class="QLabel" name="qr_code_label">
     <property name="geometry">
      <rect>
-      <x>190</x>
+      <x>180</x>
       <y>170</y>
       <width>81</width>
       <height>81</height>
@@ -165,7 +165,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>resources/placeholder.png</pixmap>
+     <pixmap>resources/calendar_qrcode.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
