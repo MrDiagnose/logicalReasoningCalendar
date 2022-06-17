@@ -2,8 +2,8 @@
 A small tool to find the day when another day is not given (type 1 , type 2 and type 3)
 
 ## REQUIREMENTS
-[python](https://www.python.org/)
-pip install pyqt5
+1. [python](https://www.python.org/)
+2. pip install pyqt5
 
 ## SCREENSHOTS
 
